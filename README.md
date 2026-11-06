@@ -4,6 +4,9 @@ An AI-powered math and reasoning assistant built with **Streamlit, LangChain, an
 
 The application is branded as **MathMind AI** and provides a configurable model, creativity setting, conversation history, and optional agent activity display.
 
+
+![Image description](images/image.png)
+
 ---
 
 ## ✨ Features
@@ -209,7 +212,7 @@ The complete dependency list is maintained in [requirements.txt](requirements.tx
 
 - GitHub: [@Tauhid-Topu-007](https://github.com/Tauhid-Topu-007)
 - LinkedIn: [Tauhidul Islam Topu](https://www.linkedin.com/in/tauhidul-islam-topu-1a04b31ab/)
-- Portfolio: [tauhid-topu.netlify.app](https://tauhid-topu.netlify.app/)
+- Portfolio: [Tauhidul Islam Topu](https://portfolio-frontend-rust-six.vercel.app/)
 
 ## 📄 License
 
